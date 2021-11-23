@@ -1,0 +1,8 @@
+﻿@viewModel DotVVMcrud.ViewModels.CreateViewModel, DotVVMcrud
+@masterPage Views/MasterPage.dotmaster
+
+<dot:Content ContentPlaceHolderID="MainContent">
+
+
+</dot:Content>
+
